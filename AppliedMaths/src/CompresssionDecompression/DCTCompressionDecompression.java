@@ -1,6 +1,5 @@
 package CompresssionDecompression;
-//Test
-//Test Kraken
+
 public class DCTCompressionDecompression {
 
 	static int N = 8;
